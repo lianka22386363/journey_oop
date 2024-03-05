@@ -1,0 +1,24 @@
+
+ Your journey to the sea: 
+ Purpose of travelling: chill 
+ Transport you are going by: plane
+ Duration of your journey: 5 days
+ The temperature of water in the sea: 20 degrees Celsium 
+ You can swim: false
+ Your journey will cost: 400 euros
+
+ Your journey to the mountains: 
+ Purpose of travelling: activities 
+ Transport you are going by: bus
+ Duration of your journey: 5 days
+ Season: summer
+ Did you have an experience in mountains: false
+ Your journey will cost: 600 euros
+
+ Your journey to the city: 
+ Purpose of travelling: work 
+ Transport you are going by: car
+ Duration of your journey: 5 days
+ Overnight stay in: hotel
+ Language locals speak there: english
+ Your journey will cost: 750 euros
